@@ -3,7 +3,7 @@
 ## A - Operações Aritméticas e Expressões
 
 	01.c - leitura e escrita de inteiros, divisão inteira (o quociente é truncado).
-	02.c - 
+	02.c - leitura de dois inteiros numa mesma linha separados por espaço.
 	03.c - 
 	04.c - 
 	05.c - 
@@ -32,7 +32,7 @@
 	24.c - 
 	25.c - 
 	26.c - 
-	27.c - brute-force, while infinito com break.
+	27.c - brute-force, while infinito com condicional if e break.
 	28.c - 
 	29.c - 
 	30.c - 
