@@ -32,7 +32,7 @@
 	24.c - 
 	25.c - 
 	26.c - 
-	27.c - 
+	27.c - brute-force, while infinito com break.
 	28.c - 
 	29.c - 
 	30.c - 
