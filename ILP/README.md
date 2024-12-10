@@ -7,10 +7,10 @@
 	03.c - leitura de flutuantes e operações entre inteiros e flutuantes.
 	04.c - módulo ou resto da divisão entre dois inteiros e precedência.
 	05.c - enum enquanto valores constantes a partir de enumeração explícita.
-	06.c - formatação de saída para flutuantes / quantidade de casas decimais.
-	07.c - 
-	08.c - 
-	09.c - 
+	06.c - formatação de saída para flutuantes, quantidade de casas decimais.
+	07.c - variável composta struct com declaração e inicialização ao mesmo tempo.
+	08.c - variável composta struct com inicialização após a declaração.
+	09.c - variável composta struct com typedef (nome alternativo para a variável).
 	10.c - 
 ## B - Estruturas de Controle Condicional
 
