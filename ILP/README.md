@@ -11,7 +11,7 @@
 	07.c - variável composta struct com declaração e inicialização ao mesmo tempo.
 	08.c - variável composta struct com inicialização após a declaração.
 	09.c - variável composta struct com typedef (nome alternativo para a variável).
-	10.c - 
+	10.c - variável composta union: dados usados alternadamente; caracteres.
 ## B - Estruturas de Controle Condicional
 
 	11.c - 
