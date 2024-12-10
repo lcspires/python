@@ -3,11 +3,11 @@
 ## A - Operações Aritméticas e Expressões
 
 	01.c - leitura e escrita de inteiros, divisão inteira (o quociente é truncado).
-	02.c - leitura de dois inteiros numa mesma linha separados por espaço.
-	03.c - 
-	04.c - 
-	05.c - 
-	06.c - 
+	02.c - leitura de dois inteiros numa mesma linha e separados por espaço.
+	03.c - leitura de flutuantes e operações entre inteiros e flutuantes.
+	04.c - módulo ou resto da divisão entre dois inteiros e precedência.
+	05.c - enum enquanto valores constantes a partir de enumeração explícita.
+	06.c - formatação de saída para flutuantes / quantidade de casas decimais.
 	07.c - 
 	08.c - 
 	09.c - 
