@@ -14,28 +14,28 @@
 	10.c - variável composta union: dados usados alternadamente; caracteres.
 ## B - Estruturas de Controle Condicional
 
-	11.c - 
-	12.c - 
-	13.c - 
-	14.c - 
-	15.c - 
-	16.c - 
+	11.c - comando de seleção única if e operadores de igualdade.
+	12.c - comando de seleção multipla switch.
+	13.c - operador lógico and, operadores relacionais, constantes. 
+	14.c - comando de seleção dupla if else, operador de diferença.
+	15.c - estruturas de controle aninhadas.
+	16.c - série de condições if-else (calculadora do IMC com feedback).
 	17.c - 
 	18.c - 
 	19.c - 
 	20.c - 
 ## C - Laços de Repetição e Iteração
 
-	21.c - 
-	22.c - 
-	23.c - 
-	24.c - 
-	25.c - 
+	21.c - while, do while, for.
+	22.c - operadores de incremento, decremento e atribuição.
+	23.c - repetição controlada por contador.
+	24.c - repetição controlada por sentinela.
+	25.c - estrutura de repetição while.
 	26.c - 
 	27.c - brute-force, while infinito com condicional if e break.
 	28.c - 
 	29.c - 
-	30.c - 
+	30.c - operador lógico not.
 ## D - Vetor e Manipulação de Arrays
 
 	31.c - 
@@ -51,7 +51,7 @@
 
 ## E - Operações com Strings
 
-	41.c - 
+	41.c - char string[] = "Teste"; ['T', 'e', 's', 't', 'e', '\0'].
 	42.c - 
 	43.c - 
 	44.c - 
@@ -88,9 +88,9 @@
 	70.c - 
 ## H - Funções e Recursão
 
-	71.c - 
-	72.c - 
-	73.c - 
+	71.c - blocos de montagens de programa podem ou não receber informações.
+	72.c - a palavra-chave return é um dos vários meios de encerrar uma função.
+	73.c - exit, break, goto.
 	74.c - 
 	75.c - 
 	76.c - 
